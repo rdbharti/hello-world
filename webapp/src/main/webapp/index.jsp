@@ -1,5 +1,5 @@
 <h1 align="center"> Rana Durlabh Bharti </h1>
-<h1 align="center"> <u> Git -> Jenkins -> Ansible -> Docker </u> </h1>
+<h1 align="center"> <u> Testing Continous Integration </u> </h1>
 
 <form action="action_page.php">
   <div class="container">
